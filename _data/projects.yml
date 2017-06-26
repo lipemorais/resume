@@ -1,12 +1,18 @@
-# Projects
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+- project: UXConfBR
+  role: Organização
+  duration: '2017'
+  description: Organização e suporte em palestras e workshops; recepção, credenciamento e auxílio aos participantes e convidados. 
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+- project: Collaboration Jam (Faculdade Senac)
+  role: Participante e Ganhadora
+  duration: '2017' 
+  description: A Collaboration Jam é uma maratona de programação, infraestrutura, prototipagem e colaboração onde pessoas se reúnem para resolver um desafio ou propor algo para a resolução de um problema usando tecnologia da informação.
+
+- project: Rails Girls (Porto Alegre e Novo Hamburgo)
+  role: Organização e Treinadora
+  duration: 2013/2014/2015/2016/2017
+
+- project: Django Gilrs (Porto Alegre)
+  role: Organização
+  duration: '2017' 
+
