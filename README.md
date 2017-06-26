@@ -1,59 +1,69 @@
-# resume-template
+# Amanda Silva Vieira
+##
+### Desenvolvedora
+##
+> +55 51 98551 3508 | amandasv.pm@gmail.com | José Paris 419, Sarandi, Porto Alegre
+##
+### Experiências
+#### DZ Estúdio
+Frontend Developer • Dezembro, 2016 — Atualmente
+Desenvolvimento e manutenção de sites.
+- HTML, SASS e Javascript
+- Laravel, Rails
+- BEM (css)
+- Gulp
+- Node.js
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+#### Máquina de Reservas
+Frontend Developer • Fevereiro, 2016 — Dezembro, 2016
+Desenvolvimento e manutenção de sites.
+- HTML, Sass e Javascript
+- Django
 
-![img](images/screenshot.png)
+#### Centro de Inovação Microsoft/PUCRS/ThoughtWorks
+Estagiária • Maio, 2015 — Janeiro, 2016
+Participação em dois projetos, o curso/estágio possibilita uma imersão em metodologias ágeis com profissionais experientes desenvolvendo um projeto real.
 
-## Docs
+##
+### Educação
+#### Faculdade Senac Porto Alegre
+Análise e Desenvolvimento de Sistemas • 2015 — Atualmente
 
-### Running locally
+#### Faculdade Senac Porto Alegre
+Produção Multimídia • 2013 — 2015
 
-To test locally, run the following in your terminal:
+##
+### Projetos
+#### UXConfBR
+Organização • 2017
+Organização e suporte em palestras e workshops; recepção, credenciamento e auxílio aos participantes e convidados.
 
-1. Clone repo locally
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `localhost:4000`
+#### Collaboration Jam (Faculdade Senac)
+Participante e Ganhadora • 2017
+A Collaboration Jam é uma maratona de programação, infraestrutura, prototipagem e colaboração onde pessoas se reúnem para resolver um desafio ou propor algo para a resolução de um problema usando tecnologia da informação.
 
-### Customizing
+#### Rails Girls (Porto Alegre e Novo Hamburgo)
+Organização e Treinadora • 2013/2014/2015/2016/2017
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+#### Django Gilrs (Porto Alegre)
+Organização • 2017
 
-#### Options/configuration
+##
+### Resumo de conhecimentos
+- HTML
+- CSS
+- Less
+- Sass
+- Javascript
+- Ruby
+- PHP
+- Python
+- Versionamento
+- Metodologias Ágeis
+- Pacote Adobe (Illustrator, Photoshop, InDesign Fireworks)
 
-Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
+##
+* [GitHub](https://github.com/Amandasv/)
+* [LinkedIn](https://www.linkedin.com/in/amandasilvavieira)
+* [Facebook](https://www.facebook.com/amandasilvavieira)
 
-[...write these out...]
-
-#### Editing content
-
-Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
-
-### Publishing to GitHub Pages for free
-
-[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
-
-### Configuring with your own domain name
-
-To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
-
-### Themes
-
-Right now resume-template only has one theme. More are coming :soon: though. :heart:
-
-## Roadmap
-
-A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
-
-## Contributing
-
-If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
-
-1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
-2. Fork the project, make changes, and submit a pull request
-
-## License
-
-The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
-
-Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
