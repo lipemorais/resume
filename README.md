@@ -2,7 +2,7 @@
 ##
 ### Desenvolvedora
 ##
-> +55 51 98551 3508 | amandasv.pm@gmail.com | José Paris 419, Sarandi, Porto Alegre
+> +55 51 98551 3508 | amandasv.pm@gmail.com | Porto Alegre
 ##
 ### Experiências
 #### DZ Estúdio
