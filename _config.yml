@@ -1,6 +1,6 @@
 # Site settings
-title: "Amanda Silva Vieira"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Felipe de Morais"
+description: "Currículo de Felipe de Morais"
 
 # Build settings
 markdown: kramdown
@@ -10,12 +10,12 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Amanda Silva Vieira"
-resume_title:                   "Desenvolvedora"
+resume_name:                    "Felipe de Morais"
+resume_title:                   "Desenvolvedor"
 resume_contact_email:
-  "amandasv.pm@gmail.com"
+  "felipejpa15@gmail.com"
 resume_header_contact_info: ""
-resume_header_intro: "<p>+55 51 98551 3508 <br> amandasv.pm@gmail.com <br> José Paris 419, Sarandi, Porto Alegre</p>"
+resume_header_intro: "<p>+55 21 986510267 <br> felipejpa15@gmail.com <br> Porto Alegre</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -32,14 +32,14 @@ resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/Amandasv/"
-  resume_facebook_url:          "https://www.facebook.com/amandasilvavieira"
-  resume_linkedin_url:          "https://www.linkedin.com/in/amandasilvavieira"
+  resume_github_url:            "https://github.com/lipemorais/"
+  resume_facebook_url:          "https://www.facebook.com/felipedemorais"
+  resume_linkedin_url:          "https://www.linkedin.com/in/felipe-de-morais-b8b25b5b/"
 resume_print_social_links:      true
 
 # Design settings
