@@ -1,11 +1,24 @@
 # Jobs
-# Springfield Nuclear Power Plant
 - company: ThoughtWorks
   position: Consultor de desenvolvimento de software
   duration: Julho, 2015 &mdash; Atualmente
   summary: Consultoria e desenvolvimento de aplicações para grandes clientes. Além disso estive 6 meses treinando pessoas na Índia e na China na ThoughtWorks University.
+  project:
+    - name: Treinador na ThoughtWorks University(China & Índia)
+      duration: 6 meses
+      description: Meu papel lá era ensinar para novas pessoas sobre fundamentos para ser um consultor como práticas ágeis, feedback, entrega contínua, qualidade de código testes além de coaching e mentoria.
+      tools-technologies:
+        - Java com Spring e Orientação a Objetos
+        - Qualidade de código
+        - Testes e estratégias de teste
+        - Código limpo
+        - Coach
+        - Mentoria
+        - Facilitação
+        - Entrega Contínua
+        - Metodologias ágeis(Kanban, XP, SCRUM e outras)
+        - Feedback
 
-# Windmill Crank Operator
 - company: 21K
   position: Desenvolvedor de software
   duration:  Março, 2015 &mdash; Junho, 2015
