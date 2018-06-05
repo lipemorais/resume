@@ -6,7 +6,7 @@
   project:
     - name: Treinador na ThoughtWorks University(China & Índia)
       duration: 6 meses
-      description: Meu papel lá era ensinar para novas pessoas sobre fundamentos para ser um consultor como práticas ágeis, feedback, entrega contínua, qualidade de código testes além de coaching e mentoria.
+      description: Meu papel lá era ensinar para consultores em início de carreira sobre fundamentos do papel na empresa como os itens mencionados abaixo.
       tools-technologies:
         - Java com Spring e Orientação a Objetos
         - Qualidade de código
@@ -18,6 +18,28 @@
         - Entrega Contínua
         - Metodologias ágeis(Kanban, XP, SCRUM e outras)
         - Feedback
+
+    - name: Plataforma de pagamentos de uma grande companhia aérea
+      duration: 1 ano e 6 meses
+      description: Desenvolvimento de uma plataforma de pagamentos que funcione em diferentes países de maneira transparente a seus usuários.
+      tools-technologies:
+        - Java com Spring e Spark
+        - Código limpo
+        - Testes e estratégias de teste
+        - Qualidade de código
+        - CI/CD
+        - Metodologias ágeis(Kanban, XP, SCRUM e outras)
+        - Micro Serviços
+
+    - name: Sistema para ONG nos Estados Unidos
+      duration: 4 meses
+      description: Este sistema para organizar a alocação de tutores e alunos para uma ONG que ensinava crianças a aumentar o nível de leitura nos estados unidos.
+      tools-technologies:
+        - Python 3
+        - Flask
+        - CSS
+        - HTML
+        - JavaScript
 
 - company: 21K
   position: Desenvolvedor de software
