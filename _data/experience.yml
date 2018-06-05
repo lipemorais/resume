@@ -1,18 +1,12 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: DZ Estúdio
-  position: Frontend Developer
-  duration: Dezembro, 2016 &mdash; Atualmente
-  summary: Desenvolvimento e manutenção de sites. <ul><li>HTML, SASS e Javascript </li><li>Laravel, Rails </li><li>BEM (css) </li><li>Gulp </li><li>Node.js </li><ul>
+- company: ThoughtWorks
+  position: Consultor de desenvolvimento de software
+  duration: Julho, 2015 &mdash; Atualmente
+  summary: Consultoria e desenvolvimento de aplicações para grandes clientes. Além disso estive 6 meses treinando pessoas na Índia e na China na ThoughtWorks University.
 
 # Windmill Crank Operator
-- company: Máquina de Reservas
-  position: Frontend Developer
-  duration:  Fevereiro, 2016 &mdash; Dezembro, 2016
-  summary: Desenvolvimento e manutenção de sites. <ul><li>HTML, Sass e Javascript </li><li>Django </li><ul>
-
-# Front Desk Attendant
-- company: Centro de Inovação Microsoft/PUCRS/ThoughtWorks
-  position: Estagiária
-  duration:   Maio, 2015  &mdash; Janeiro, 2016
-  summary: Participação em dois projetos, o curso/estágio possibilita uma imersão em metodologias ágeis com profissionais experientes desenvolvendo um projeto real.
+- company: 21K
+  position: Desenvolvedor de software
+  duration:  Março, 2015 &mdash; Junho, 2015
+  summary: Desenvolvimento de sistesma para monitoramento de cidades inteligentes.
