@@ -1,18 +1,29 @@
-- project: UXConfBR
-  role: Organização
+- project: AfroPython.org
+  role: Idealizador e organizador
+  duration: 'Julho, 2017 &mdash;  Atualmente'
+  description: O AfroPython é uma iniciativa de inclusão e empoderamento de pessoas negras na área de tecnologia.
+
+- project: Django Girls Porto Alegre
+  role: Organizador
+  duration: '2016, 2017'
+
+- project: Django Girls Caxias do Sul
+  role: Conselheiro e Treinador
   duration: '2017'
-  description: Organização e suporte em palestras e workshops; recepção, credenciamento e auxílio aos participantes e convidados. 
 
-- project: Collaboration Jam (Faculdade Senac)
-  role: Participante e Ganhadora
-  duration: '2017' 
-  description: A Collaboration Jam é uma maratona de programação, infraestrutura, prototipagem e colaboração onde pessoas se reúnem para resolver um desafio ou propor algo para a resolução de um problema usando tecnologia da informação.
+- project: Python Sul
+  role: Co-Organizador
+  duration: '2017'
 
-- project: Rails Girls (Porto Alegre e Novo Hamburgo)
-  role: Organização e Treinadora
-  duration: 2013/2014/2015/2016/2017
+- project: BrazilJS
+  role: Comissão de diversidade
+  duration: '2017'
 
-- project: Django Gilrs (Porto Alegre)
-  role: Organização
-  duration: '2017' 
+- project: Rails Girls Porto Alegre
+  role: Treinador
+  duration: '2017'
 
+- project: TDC(The Developers Conference)
+  role: Coordenador de trilha
+  duration: '2017'
+  description: Fui coordenador da trilha de acessibilidade digital no TDC Porto alegre em 2017.
