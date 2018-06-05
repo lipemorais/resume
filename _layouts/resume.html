@@ -69,6 +69,18 @@
       <!-- end Experience -->
       {% endif %}
 
+      <!-- begin Idiomes -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Idiomas</h2>
+        </header>
+
+      {%for idiom in site.data.idiom %}
+      <div>
+        {{ idiom.name }} &bull; {{ idiom.level }}
+      </div>
+      {% endfor %}
+      </section>
 
       {% if site.resume_section_education %}
       <!-- begin Education -->
