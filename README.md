@@ -1,69 +1,68 @@
-# Amanda Silva Vieira
+# Felipe de Morais
 ##
-### Desenvolvedora
+### Desenvolvedor
 ##
-> +55 51 98551 3508 | amandasv.pm@gmail.com | Porto Alegre
+> +55 21 986510267 | felipejpa15@gmail.com | Porto Alegre - RS
 ##
+### Línguas
+Português - Nativo
+Inglês - Fluente
+Espanhol - Avançado
+LIBRAS(Língua Brasileira de sinais) - Avançado
+
 ### Experiências
-#### DZ Estúdio
-Frontend Developer • Dezembro, 2016 — Atualmente
-Desenvolvimento e manutenção de sites.
-- HTML, SASS e Javascript
-- Laravel, Rails
-- BEM (css)
-- Gulp
-- Node.js
+#### ThoughtWorks
+Consultor de desenvolvimento • Julho, 2015 — Atualmente
 
-#### Máquina de Reservas
-Frontend Developer • Fevereiro, 2016 — Dezembro, 2016
-Desenvolvimento e manutenção de sites.
-- HTML, Sass e Javascript
-- Django
+### Treinador na ThoughtWorks University • 3 Meses China + 3 Meses Índia
+- Inglês
+- Coaching e Mentoria
+- Facilitação
+- Entrega Contínua
+- Metodologias ágeis(Kanban, XP, SCRUM e outras)
+- Java com Spring e Orientação a Objetos
 
-#### Centro de Inovação Microsoft/PUCRS/ThoughtWorks
-Estagiária • Maio, 2015 — Janeiro, 2016
-Participação em dois projetos, o curso/estágio possibilita uma imersão em metodologias ágeis com profissionais experientes desenvolvendo um projeto real.
+### Plataforma de pagamentos para uma companhia área
+- Java com Spring e Spark
+- Gradle e Maven
+- Docker
+- Metodologias ágeis(Kanban, XP, SCRUM e outras)
+
+### Sistema de organização de tutores para uma ONG nos Estados Unidos • 3 Meses
+- Inglês
+- HTML, CSS e Javascript
+- Python, Flask
+- Metodologias ágeis(Kanban, XP, SCRUM e outras)
+
+### Desenvolvedor Full Stack
+- JavaScript
+- Node
+- NPM
 
 ##
 ### Educação
-#### Faculdade Senac Porto Alegre
-Análise e Desenvolvimento de Sistemas • 2015 — Atualmente
+#### Universiade Estadual da Zona Oeste
+Bacharel em Ciências da Computação • 2011-2015
 
-#### Faculdade Senac Porto Alegre
-Produção Multimídia • 2013 — 2015
+### Contribuições relevantes com Software Livre
 
-##
-### Projetos
-#### UXConfBR
-Organização • 2017
-Organização e suporte em palestras e workshops; recepção, credenciamento e auxílio aos participantes e convidados.
+#### Operação Serenata de Amor • Serenata de Amor - https://github.com/okfn-brasil/serenata-de-amor/graphs/contributors
+### Operação Serenata de Amor - Serenata Toolbox - https://github.com/okfn-brasil/serenata-toolbox/graphs/contributors
 
-#### Collaboration Jam (Faculdade Senac)
-Participante e Ganhadora • 2017
-A Collaboration Jam é uma maratona de programação, infraestrutura, prototipagem e colaboração onde pessoas se reúnem para resolver um desafio ou propor algo para a resolução de um problema usando tecnologia da informação.
+### Trabalho Voluntários
 
-#### Rails Girls (Porto Alegre e Novo Hamburgo)
-Organização e Treinadora • 2013/2014/2015/2016/2017
+#### AfroPython
+Idealização e Organização • 2017 e 2018
 
-#### Django Gilrs (Porto Alegre)
-Organização • 2017
+#### Django Girls
+Organizador e treinador • POA - 2016(primeiro no RS), 2017(Maior já feito na américa latina)
+Organizador e treinador • Caxias do Sul - 2017
+
+#### Rails Girls
+Apoio • POA 2016 e 2017
 
 ##
-### Resumo de conhecimentos
-- HTML
-- CSS
-- Less
-- Sass
-- Javascript
-- Ruby
-- PHP
-- Python
-- Versionamento
-- Metodologias Ágeis
-- Pacote Adobe (Illustrator, Photoshop, InDesign Fireworks)
-
-##
-* [GitHub](https://github.com/Amandasv/)
-* [LinkedIn](https://www.linkedin.com/in/amandasilvavieira)
-* [Facebook](https://www.facebook.com/amandasilvavieira)
+* [GitHub](https://github.com/lipemorais/)
+* [LinkedIn](https://www.linkedin.com/in/felipe-de-morais)
+* [Facebook](https://www.linkedin.com/in/felipe-de-morais-b8b25b5b/)
 
