@@ -45,3 +45,14 @@
   position: Desenvolvedor de software
   duration:  Março, 2015 &mdash; Junho, 2015
   summary: Desenvolvimento de sistesma para monitoramento de cidades inteligentes.
+  project:
+    - name: S4C Software integrador e de gestão situacional
+      duration: 4 meses
+      description: A plataforma Comtex S4C é um software integrador e de gestão situacional georrefenciado, para gerenciamento e condução dos processos de Centros de Comando e Controle, tanto de segurança como de Operações e Administração.Mais informações em <a href="http://comtex.com.br/plataforma-s4c/" target="_blank">http://comtex.com.br/plataforma-s4c/</a>
+      tools-technologies:
+        - JavaScript
+        - Angular
+        - Node JS
+        - Express
+        - Postgres
+        - GIS(Sistema de informação geográficas
