@@ -66,7 +66,7 @@
 
         {% for project in job.project %}
             <div class="resume-item">
-              <h5 class="resume-item-details">{{ project.name }} &bull; {{ project.duration}}</h5>
+              <h5 class="resume-item-details">- {{ project.name }} &bull; {{ project.duration}}</h5>
               <div class="resume-item-details">{{ project.description }}</div>
               <div><b>Tecnologias e ferramentas:</b> {% for tool-tech in project.tools-technologies %} {{tool-tech}} &bull; {% endfor %}</div>
             </div>
