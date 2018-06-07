@@ -56,3 +56,61 @@
         - Express
         - Postgres
         - GIS(Sistema de informação geográficas
+
+- company: Globo.com
+  position: Estagiário de Desenvolvimento
+  duration: Agosto, 2013 &mdash; Junho, 2015
+  summary: Desenvolvimento de produtos como TechTudo.com.br e GShow.globo.com
+  project:
+    - name: Gshow
+      - duration: 3 meses
+      - description: Aprendi muito sobre como lidar com diferentes sistemas que se relacionavam e com uma grande reestruturação na plataforma de entretenimento.
+      tools-techniques:
+        - Python
+        - Django
+        - TDD
+        - Git
+        - Ngnix
+        - SEO
+        - JavaScript
+        - CSS
+        - Sass(Compass e Susy também)
+        - HTML
+        - MySQL
+        - Blue Green deployment
+        - Integração contínua
+        - Selenium
+        - Estratégias de testes
+
+    - name: TechTudo
+      - duration: 1 ano
+      - description: Aprendi muito sobre performance já que naquele momento o TechTudo era um portal dinâmico com milhões de usuários
+      tools-techniques:
+        - Python
+        - Django
+        - TDD
+        - Git
+        - Ngnix
+        - SEO
+        - JavaScript
+        - CSS
+        - Sass(Compass e Susy também)
+        - HTML
+        - MySQL
+        - Blue Green deployment
+        - Integração contínua
+        - Selenium
+        - Estratégias & Tipos de testes
+
+    - name: Videos
+      duration: 3 meses
+      description: Aprendi bastante sobre Agilidade, Testes, Rails e Ruby no período que passei na área de Vídeos da Globo.com que é responsável pela parte de transmissão ao vivo, GloboPlay e tudo relacionado a vídeos na empresa.
+      tools-technologies:
+        - Ruby
+        - SCRUM
+        - Rails
+        - MongoDB
+        - Kanban
+        - Testes
+        - Heroku
+        - Git
