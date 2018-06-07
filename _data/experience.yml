@@ -114,3 +114,18 @@
         - Testes
         - Heroku
         - Git
+
+- company: Avanti Prima(Neogis)
+  position: Técnico de Programação
+  duration: Abril, 2012 &mdash; Abril, 2013
+  summary: Trabalhei como Front end em meu primeiro emprego focado em mapas da ESRI e sistemas de informação geográficas.
+  project:
+    - name: Geodominus
+      duration: 1 ano e 1 mês
+      description: Nesse sistema de gestão de desapropriação de terras utilizado por grandes empresas públicas.
+      tools-techniques:
+        - JS
+        - ESRI
+        - HTML
+        - CSS
+        - Mapas
