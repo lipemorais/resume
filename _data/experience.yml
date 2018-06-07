@@ -123,7 +123,7 @@
     - name: Geodominus
       duration: 1 ano e 1 mês
       description: Nesse sistema de gestão de desapropriação de terras utilizado por grandes empresas públicas.
-      tools-techniques:
+      tools-technologies:
         - JS
         - ESRI
         - HTML
