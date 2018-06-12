@@ -65,7 +65,7 @@
     - name: Gshow
       duration: 3 meses
       description: Aprendi muito sobre como lidar com diferentes sistemas que se relacionavam e com uma grande reestruturação na plataforma de entretenimento.
-      tools-techniques:
+      tools-technologies:
         - Python
         - Django
         - TDD
@@ -85,7 +85,7 @@
     - name: TechTudo
       duration: 1 ano
       description: Aprendi muito sobre performance já que naquele momento o TechTudo era um portal dinâmico com milhões de usuários
-      tools-techniques:
+      tools-technologies:
         - Python
         - Django
         - TDD
