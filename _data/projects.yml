@@ -1,29 +1,34 @@
 - project: AfroPython.org
-  role: Idealizador e organizador
-  duration: 'Julho, 2017 &mdash;  Atualmente'
-  description: O AfroPython é uma iniciativa de inclusão e empoderamento de pessoas negras na área de tecnologia.
+  role: Idealizer and Organizer
+  duration: 'July, 2017 &mdash;  Current'
+  description: AfroPython is a iniciative that supports inclusivity and empower black people trough technology.
 
-- project: Django Girls Porto Alegre
-  role: Organizador
+- project: Django Girls - Porto Alegre
+  role: Organizer
   duration: '2016, 2017'
 
 - project: Django Girls Caxias do Sul
-  role: Conselheiro e Treinador
+  role: Conselour and Trainer
   duration: '2017'
 
 - project: Python Sul
-  role: Co-Organizador
+  role: Co-organizer
   duration: '2017'
 
-- project: BrazilJS
-  role: Comissão de diversidade
+- project: BrazilJS - Biggest event about JS in the world
+  role: Diversity commision
   duration: '2017'
 
-- project: Rails Girls Porto Alegre
-  role: Treinador
+- project: Rails Girls - Porto Alegre
+  role: Trainer
   duration: '2017'
 
 - project: TDC(The Developers Conference)
-  role: Coordenador de trilha
+  role: Track Coordinator
   duration: '2017'
-  description: Fui coordenador da trilha de acessibilidade digital no TDC Porto alegre em 2017.
+  description: I have coordinated the digital accessibility track.
+
+- project: TDC(The Developers Conference)
+  role: Track Coordinator
+  duration: '2018'
+  description: I have coordinated the AI track.

@@ -1,11 +1,11 @@
-- name: Português
-  level: Nativo
+- name: Portuguese
+  level: Native
 
-- name: Inglês
-  level: Fluente
+- name: English
+  level: Fluent
 
-- name: Espanhol
-  level: Avançado
+- name: Spanish
+  level: Mid level
 
-- name: LIBRAS(Língua Brasileira de Sinais)
-  level: Avançado
+- name: LIBRAS(Brazilian Sign Language)
+  level: Advanced

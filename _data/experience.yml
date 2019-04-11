@@ -1,39 +1,39 @@
 # Jobs
 - company: ThoughtWorks
-  position: Consultor de desenvolvimento de software
-  duration: Julho, 2015 &mdash; Atualmente
-  summary: Consultoria e desenvolvimento de aplicações para grandes clientes. Além disso estive 6 meses treinando pessoas na Índia e na China na ThoughtWorks University.
+  position: Senior Software Engineer Consultant
+  duration: July, 2015 &mdash; Current
+  summary: Software Engenieering Consultancy for big companies. I had the experience of be a trainers for while in ThoughtWorks University at India and China.
   project:
-    - name: Treinador na ThoughtWorks University(China & Índia)
-      duration: 6 meses
-      description: Meu papel lá era ensinar para consultores em início de carreira sobre fundamentos do papel na empresa como os itens mencionados abaixo.
-      tools-technologies:
-        - Java com Spring e Orientação a Objetos
-        - Qualidade de código
-        - Testes e estratégias de teste
-        - Código limpo
-        - Coach
-        - Mentoria
-        - Facilitação
-        - Entrega Contínua
-        - Metodologias ágeis(Kanban, XP, SCRUM e outras)
-        - Feedback
+    - name: ThoughtWorks University (China & India)
+      duration: 6 months
+      description: My role there was to teach new consultants about the core responsibilities of their roles at the company as well the items below => Java with Spring Framework and Object Oriented Programming concepts, Best Practices, Continuous Integration, Tests and Quality Strategy, Clean Code, Coaching, Mentoring, Facilitation, Continuous Delivery, Agile Practices(Kanban, XP, SCRUM, Lean), Feedback.
 
-    - name: Plataforma de pagamentos de uma grande companhia aérea
-      duration: 1 ano e 6 meses
-      description: Desenvolvimento de uma plataforma de pagamentos que funcione em diferentes países de maneira transparente a seus usuários.
       tools-technologies:
-        - Java com Spring e Spark
-        - Código limpo
-        - Testes e estratégias de teste
-        - Qualidade de código
-        - CI/CD
-        - Metodologias ágeis(Kanban, XP, SCRUM e outras)
-        - Micro Serviços
+        - Java with Spring
+        - Object Orientation
+        - Clean Code
+        - Tests and quality strategy
+        - Coaching
+        - Mentoring
+        - Facilitation
+        - Continuous Integration & Continous Delivery
+        - Agile(Kanban, Lean, XP, SCRUM and etc)
+        - Feedback Cultivation
 
-    - name: Sistema para ONG nos Estados Unidos
-      duration: 4 meses
-      description: Este sistema para organizar a alocação de tutores e alunos para uma ONG que ensinava crianças a aumentar o nível de leitura nos estados unidos.
+    - name: Payment Platform for a airline company
+      duration: 1 year and 6 months
+      description: Development of a payment platform to enable payment with different countries and providers in a transparent and standard way for the users.
+      tools-technologies:
+        - Java with Spring and Spark
+        - Clean Code
+        - Tests and quality strategy
+        - Continuous Integration & Continous Delivery
+        - Agile(Kanban, Lean, XP, SCRUM and etc)
+        - Micro Services
+
+    - name: System for a NGO in US
+      duration: 4 months
+      description: This system made the match between tutors and students that was needing support to increase their reading level.
       tools-technologies:
         - Python 3
         - Flask
@@ -42,29 +42,29 @@
         - JavaScript
 
 - company: 21K
-  position: Desenvolvedor de software
-  duration:  Março, 2015 &mdash; Junho, 2015
-  summary: Desenvolvimento de sistesma para monitoramento de cidades inteligentes.
+  position: Software Developer
+  duration:  March, 2015 &mdash; June, 2015
+  summary: Developing a software to manage and monitor smart cities.
   project:
-    - name: S4C Software integrador e de gestão situacional
-      duration: 4 meses
-      description: A plataforma Comtex S4C é um software integrador e de gestão situacional georrefenciado, para gerenciamento e condução dos processos de Centros de Comando e Controle, tanto de segurança como de Operações e Administração.Mais informações em <a href="http://comtex.com.br/plataforma-s4c/" target="_blank">http://comtex.com.br/plataforma-s4c/</a>
+    - name: S4C(Smart for Cities) is a software that consolidate informations to help on cities monitoring
+      duration: 4 Monthes
+      description: The platform Comtex S4C is integrator sofware that is used for monitor and handle situational gestion using GIS(Gegraphic Information system), for the Command and Management in a city or state. It's really useful to keep security and for administration. More informations in http://comtex.com.br/plataforma-s4c/ (pt-br)
       tools-technologies:
         - JavaScript
         - Angular
         - Node JS
         - Express
         - Postgres
-        - GIS(Sistema de informação geográficas
+        - GIS(Geographic Information System)
 
 - company: Globo.com
-  position: Estagiário de Desenvolvimento
-  duration: Agosto, 2013 &mdash; Junho, 2015
-  summary: Desenvolvimento de produtos como TechTudo.com.br e GShow.globo.com
+  position: Development Intern
+  duration: August, 2013 &mdash; June, 2015
+  summary: Development of products like TechTudo.com.br and GShow.globo.com
   project:
     - name: Gshow
-      duration: 3 meses
-      description: Aprendi muito sobre como lidar com diferentes sistemas que se relacionavam e com uma grande reestruturação na plataforma de entretenimento.
+      duration: 3 months
+      description: I learned a lot about manage different systems, how to make them work together and and a big redesign at the entertainment area.
       tools-technologies:
         - Python
         - Django
@@ -74,17 +74,17 @@
         - SEO
         - JavaScript
         - CSS
-        - Sass(Compass e Susy também)
+        - Sass(Compass and Susy)
         - HTML
         - MySQL
         - Blue Green deployment
-        - Integração contínua
+        - Continuous Integration & Continous Delivery
         - Selenium
-        - Estratégias de testes
+        - Quality Strategy
 
     - name: TechTudo
       duration: 1 ano
-      description: Aprendi muito sobre performance já que naquele momento o TechTudo era um portal dinâmico com milhões de usuários
+      description: I learned how to handle performance issues specially when the database is the bottleneck in a dynamic portal for more than 1 million users a day at that moment.
       tools-technologies:
         - Python
         - Django
@@ -94,38 +94,38 @@
         - SEO
         - JavaScript
         - CSS
-        - Sass(Compass e Susy também)
+        - Sass(Compass and Susy)
         - HTML
         - MySQL
         - Blue Green deployment
-        - Integração contínua
+        - Continuous Integration & Continous Delivery
         - Selenium
-        - Estratégias & Tipos de testes
+        - Quality strategy
 
     - name: Videos
-      duration: 3 meses
-      description: Aprendi bastante sobre Agilidade, Testes, Rails e Ruby no período que passei na área de Vídeos da Globo.com que é responsável pela parte de transmissão ao vivo, GloboPlay e tudo relacionado a vídeos na empresa.
+      duration: 3 months
+      description: I learned about Agile Development, Tests, Rails and Ruby during the time that I had at this area that was responsible for everything related to videos and streaming at the company.
       tools-technologies:
         - Ruby
         - SCRUM
         - Rails
         - MongoDB
         - Kanban
-        - Testes
+        - Tests
         - Heroku
         - Git
 
 - company: Avanti Prima(Neogis)
-  position: Técnico de Programação
-  duration: Abril, 2012 &mdash; Abril, 2013
-  summary: Trabalhei como Front end em meu primeiro emprego focado em mapas da ESRI e sistemas de informação geográficas.
+  position: Programming Technician
+  duration: April, 2012 &mdash; Abril, 2013
+  summary: I worked with Front end development in my very first job focusing on web maps with ESRI technology and GIS.
   project:
     - name: Geodominus
-      duration: 1 ano e 1 mês
-      description: Nesse sistema de gestão de desapropriação de terras utilizado por grandes empresas públicas.
+      duration: 1 year and 1 month
+      description: I have worked with Esri maps and GIS products integrating with a .Net application, responsible to manage areas that had to be expropriated for big constructions using a lot of JS, HTML and CSS.
       tools-technologies:
         - JS
         - ESRI
         - HTML
         - CSS
-        - Mapas
+        - Web Maps
