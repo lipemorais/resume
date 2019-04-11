@@ -2,11 +2,11 @@
 - company: ThoughtWorks
   position: Senior Software Engineer Consultant
   duration: July, 2015 &mdash; Current
-  summary: Software Engenieering Consultancy for big companies. I had the experience of be a trainers for while in ThoughtWorks University at India and China.
+  summary: Software Engenieering Consultancy for big companies. I had the experience of being a trainer in ThoughtWorks University at India and China.
   project:
     - name: ThoughtWorks University (China & India)
       duration: 6 months
-      description: My role there was to teach new consultants about the core responsibilities of their roles at the company as well the items below => Java with Spring Framework and Object Oriented Programming concepts, Best Practices, Continuous Integration, Tests and Quality Strategy, Clean Code, Coaching, Mentoring, Facilitation, Continuous Delivery, Agile Practices(Kanban, XP, SCRUM, Lean), Feedback.
+      description: My role there was to teach new consultants about the core responsibilities of their roles at the company.
 
       tools-technologies:
         - Java with Spring
@@ -33,7 +33,7 @@
 
     - name: System for a NGO in US
       duration: 4 months
-      description: This system made the match between tutors and students that was needing support to increase their reading level.
+      description: This system made the match between tutors and students that were needing support to increase their reading level.
       tools-technologies:
         - Python 3
         - Flask
@@ -102,7 +102,7 @@
         - Selenium
         - Quality strategy
 
-    - name: Videos
+    - name: Webmedia
       duration: 3 months
       description: I learned about Agile Development, Tests, Rails and Ruby during the time that I had at this area that was responsible for everything related to videos and streaming at the company.
       tools-technologies:
