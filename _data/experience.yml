@@ -22,10 +22,11 @@
 
     - name: Payment Platform for a airline company
       duration: 1 year and 6 months
-      description: Development of a payment platform to enable payment with different countries and providers in a transparent and standard way for the users.
+      description: Development of a payment platform to enable payment with different countries and providers in a transparent and standard way for the users. In the project I had the chance to be the TechLead in a critical moment for a important delivery where we were introducing a important new feature of payment by credit card for Ecuador.
       tools-technologies:
         - Java with Spring and Spark
         - Clean Code
+        - Clean Architecture
         - Tests and quality strategy
         - Continuous Integration & Continous Delivery
         - Agile(Kanban, Lean, XP, SCRUM and etc)
